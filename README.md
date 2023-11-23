@@ -1,8 +1,2 @@
 # javascript-dark-mode
- sxdcdcdcdccdcdcdcdcdcdcdcdcdcdcdc
-cdccdcdcdcdedeededede
-dddwdw
-dddddddwcfrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
-fffffffffffffffffffffffffdfdffdfddddddccccccccccccvvvccc
-cccccfddddddddddddddddddddddddddddddddddd
-fcfvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+simle way to add a dark mode button  using simple html, css and js
