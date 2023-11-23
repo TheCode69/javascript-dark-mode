@@ -1,6 +1,6 @@
 # javascript-dark-mode
  sxdcdcdcdccdcdcdcdcdcdcdcdcdcdcdc
-cdccdcdcdcd
+cdccdcdcdcdedeededede
 dddwdw
 dddddddwcfrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 fffffffffffffffffffffffffdfdffdfdddd
